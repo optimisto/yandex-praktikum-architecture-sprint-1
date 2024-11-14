@@ -217,8 +217,10 @@ microfrontend/
 
 # Задание 2
 
-В этом задании вам нужно декомпозировать веб-приложения на Django на микросервисы. Кодить не придётся: в этот раз вы будете работать в онлайн-редакторе draw.io.
+В этом задании вам нужно декомпозировать веб-приложения на Django на микросервисы.
 
-[Оригинальная архитектура](./arch_template_task2.drawio)
+Кодить не придётся: в этот раз вы будете работать в онлайн-редакторе draw.io.
 
-[Микросервисная архитектура](./microservices.drawio)
+[Оригинальная архитектура](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=arch_template_task2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D15uv9e9iZqym5hA64fePVMoOilOCTT9ho%26export%3Ddownload) ([исходник](./arch_template_task2.drawio))
+
+[Микросервисная архитектура](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=microservices.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1vs5vrptio0XsAamCvdTlLGAhVQcXbcuT%26export%3Ddownload) ([исходник](./microservices.drawio))
